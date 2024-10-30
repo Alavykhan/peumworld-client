@@ -1,0 +1,194 @@
+[
+    {
+        "id":1,
+        "name": "Orphéon",
+        "tag-line": "Holiday Edition eau de parfum",
+        "notes": "Juniper berry, Cedar, Tonka bean, Jasmine",
+        "price": 165,
+        "description": "An exclusive version of Orphéon eau de parfum is unveiled. Orphéon is a vibrant meeting of tonka bean and cedar – and a tribute to the origins of Diptyque. The illustration for this eau de parfum is printed in gold – a two-dimensional decoration glittering with life. A limited edition, ideal as a gift – or a treat for yourself.",
+        "size" : 75,
+        "img":"https://i.ibb.co.com/YbvYdC1/orpheon.jpg",
+        "tag": "perfume"
+
+    },
+    {
+        "id":2,
+        "name": "Bois Corse",
+        "tag-line": "Eau de parfum",
+        "notes": "Café arabica, sandalwood, tonka bean",
+        "price": 275,
+        "description": "Bois Corsé evokes the textured outer layer of a tree. A combination of intense black coffee absolute and essence of sandalwood, with tonka bean blended in. A fragrance with a lingering sillage, its name a play on words: 'écorce' is French for 'bark', 'corsé' means full-'bodied' – like the coffee aroma celebrated here. The bottle is decorated with fine black lines inspired by the reliefs found in bark. The irregular forms on the sleeve evoke the texture of wood, its shape evolving with the passage of time.",
+        "size" : 100,
+        "img":"https://i.ibb.co.com/BqdwrHj/Bois-Corse.jpg",
+        "tag": "perfume"
+
+    },
+    {
+        "id":3,
+        "name": "Tobacco Vanille",
+        "tag-line": "Eau de parfum",
+        "notes": "A warm, iconic blend of tobacco, vanilla, and sweet wood sap accords.",
+        "price": 300,
+        "description": "Tobacco Vanille is reminiscent of the very finest of private clubs – a classic fragrance infused with tonka bean, vanilla, cocoa, dry fruit accords and notes of sweet wood sap for a modern, opulent and heady impression.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/x3bGgNm/Tobacco-Vanille.jpg",
+        "tag": "perfume"
+
+    },
+    {
+        "id":4,
+        "name": "Dunhill Icon Racing ",
+        "tag-line": "Blue Edition Eau de parfum",
+        "notes": "A warm, iconic blend of tobacco, vanilla, and sweet wood sap accords.",
+        "price": 119,
+        "description": "Icon Racing Blue Edition captures the spirit of freedom and escape of the contemporary driver. With fresh top notes of Calamans Sicilian lime, ambroxan and bergamot, it evolves into an outdoorsy heart of sea salt, neroli, coriander and green cardamom. The woody base of patchouli coeur, Indian sandalwood, ambergris and seashore woods provides warmth and earthy tones, creating a fragrance of surprising and invigorating contrasts. Presented in a blue cylindrical ICON bottle with added racing stripe and textural Engine Turn detailing.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/pWJfjR7/w1125-be4e4e4.webp",
+        "tag": "perfume"
+
+    },
+    {
+        "id":5,
+        "name": "Blue de Chanel",
+        "tag-line": "Eau de Parfum Spray",
+        "notes": "A fresh citrus accord followed by ambery cedar. Woody notes are amplified by tonka bean and vanilla for heightened sensuality.",
+        "price": 157,
+        "description": "Unexpected and undeniably bold. Fresh, clean and profoundly sensual, the woody, aromatic fragrance reveals the spirit of a man who chooses his own destiny with independence and determination—a man who defies convention.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/f4B2Yfw/bleu-chanel.webp",
+        "tag": "perfume"
+
+    },
+    {
+        "id":6,
+        "name": "Fleur de Peau",
+        "tag-line": "Holiday Edition eau de parfum",
+        "notes": "Musk, Iris, Ambrette, Pink Peppercorn",
+        "price": 165,
+        "description": "An ode to musks, and to a myth from antiquity. Fleur de Peau eau de parfum, reinvented in an exclusive edition for the holiday season. The illustration for this eau de parfum is printed in gold – a two-dimensional decoration glittering with life. A limited edition, ideal as a gift – or a treat for yourself.",
+        "size" : 100,
+        "img":"https://i.ibb.co.com/DKf1L7p/Fleur-de-Peau.webp",
+        "tag": "perfume"
+
+    },
+    {
+        "id":7,
+        "name": "Neroli Portofino ",
+        "tag-line": "Eau de Parfum",
+        "notes": "Ingredients: Alcohol Denat., Water Aqua Eau, Fragrance (parfum), Limonene, Linalool, Hydroxycitronellal, Geraniol, Citronellol, Citral, Farnesol",
+        "price": 300,
+        "description": "Transportive and invigorating, Neroli Portofino captures the cool breezes, sparkling waters and lush foliage of the Italian Riviera. This reinvention of a classic eau de cologne features crisp citrus oils, surprising floral notes and amber undertones to leave a splashy yet substantive impression.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/xCB8pWm/Neroli-Portofino.jpg",
+        "tag": "perfume"
+
+    },
+    {
+        "id":8,
+        "name": "Gucci Flora Gorgeous Jasmine",
+        "tag-line": "Eau de Parfum",
+        "notes": "Top notes of Mandarin Italy Essence, Bergamot Italy Essence, Black Pepper Essence",
+        "price": 168,
+        "description": "Gucci Flora Gorgeous Jasmine Eau de Parfum bursts with a radiant composition led by Grandiflorum Jasmine. Tender wreaths of noble Jasmine are transformed through extraction into the heart and spirit of Gucci Flora Gorgeous Jasmine, resulting in an enlightened expression of this precious flower. Blended with base notes of Sandalwood and Benzoin, its sensual notes create a skin imprint unique to the wearer. Its energy of inner joy is further lifted with notes of Mandarine Essence and Magnolia Accord, which infuse the scent with a joyful feeling. The House’s distinctive Flora pattern seals the design with a magical touch, fortifying Gucci Flora Gorgeous Jasmine as an object of inspiration.",
+        "size" : 100,
+        "img":"https://i.ibb.co.com/10RqQYv/Gucci-Flora.jpg",
+        "tag": "perfume"
+
+    },
+    {
+        "id":9,
+        "name": "Tubereuse (Tuberose)",
+        "tag-line": "Classic Candle",
+        "notes": "The herbarium of flowers",
+        "price": 58,
+        "description": "In the flame, a fragrance unfolds: heady, yet fresh and green too. A scent with subtle nuances of fruity, milky notes. This candle of scented wax conveys every facet of the tuberose. An ode to this white, deeply fragrant flower cultivated in the wide fields of Southern India.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/MpVGStk/Tub-reuse.webp",
+        "tag": "candle"
+
+    },
+    {
+        "id":10,
+        "name": "Amber Rouge Reed Diffuser",
+        "tag-line": "Classic Candle",
+        "notes": "Jasmine, Saffron, Cedarwood",
+        "price": 30,
+        "description": "The Product Made from a coconut infused diffuser base is designed for optimal fragrance throw and formulated with no phthalates or parabens , this reed diffuser is formulated to provide a continuous and exceptional scent experience for approximately 3 to 4 months. Includes 7 black all-natural rattan diffuser reed sticks.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/MpVGStk/Tub-reuse.webp",
+        "tag": "candle"
+
+    },
+    {
+        "id":11,
+        "name": "Fucking Fabulous Candle",
+        "tag-line": "The fabulous Private Blend scent in a luxe candle for the home.",
+        "notes": "Jasmine, Saffron, Cedarwood",
+        "price": 140,
+        "description": "Vibrant clary sage and fresh lavender command attention with aromatic foreplay. Bitter almond and notes of vanilla infuse textural richness to the leather heart, intensified by floral orris accord. Tonka bean drives the scent as amber undertones and blonde woods accords reverberate with a warm glow.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/qC697Nh/Fucking-Fabulous-Candle.jpg",
+        "tag": "candle"
+
+    },
+    {
+        "id":12,
+        "name": "Sapin (Pine Tree)",
+        "tag-line": "Classic candle with golden lid",
+        "notes": "Siberian pine, resin, cedar, patchouli",
+        "price": 72,
+        "description": "The enveloping scent of fresh pine needles and resin … This limited edition Sapin (Pine Tree) candle comes decorated with a golden lid and a label crafted in felt. Ideal as a gift – or a treat for yourself. Felt, a material much loved by artist Lucy Sparrow, takes center stage in this end-of-year collection. For Diptyque, she appropriates the symbols of winter and the icons of the Maison, transmuting reality into a magical, festive world.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/WcQRN0L/Sapin-Pine-Tree.webp",
+        "tag": "candle"
+
+    },
+    {
+        "id":13,
+        "name": "Feu de Bois (Wood Fire)",
+        "tag-line": "Medium Candle",
+        "notes": "The herbarium of trees",
+        "price": 85,
+        "description": "Ode to winter: wax conjuring up an open fire that flames and crackles, here encased in a coloured hand-blown glass vessel. Warm and familiar, as evocative as Proust's famous madeleine, this large scented candle infuses the air with its dense, woody scent.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/7bgM14g/Feu-de-Bois-Wood-Fire.webp",
+        "tag": "candle"
+
+    },
+    {
+        "id":14,
+        "name": "Genévrier (Juniper)",
+        "tag-line": "Classic Candle",
+        "notes": "The herbarium of trees",
+        "price": 58,
+        "description": "A fragrance of surprising complexity. Spicy and smoky, irresistably lively but also aromatic, with a fruity bitterness borrowed from citrus peel. This scented candle fully and faithfully reproduces the appeal of the juniper berries that lend their aroma to countless specialties – including gin.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/jbw7rx4/Gen-vrier-Juniper.webp",
+        "tag": "candle"
+
+    },
+    {
+        "id":15,
+        "name": "Vanille",
+        "tag-line": "Classic Candle",
+        "notes": "The herbarium of spices",
+        "price": 58,
+        "description": "Leathery, almost smoky accents. Vanilla pods, dense and black, so fragrant that one alone is sufficient to perfume all you might require it to. It takes time and patience for the small pods to unveil their notes: a powerful, captivating fragrance, revealed in this scented candle.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/zfMttT6/Vanille.webp",
+        "tag": "candle"
+
+    },
+    {
+        "id":16,
+        "name": "Pomander",
+        "tag-line": "Classic Candle",
+        "notes": "The herbarium of spices",
+        "price": 68,
+        "description": "A perfume of winter. Spices in abundance, mouthwatering scents of candied peel echoing oranges pierced with fragrant cloves. The Pomander scented candle stirs up memories of the holiday season – and a home filled with deliciously spicy, fruity notes.",
+        "size" : 50,
+        "img":"https://i.ibb.co.com/mNp4YG4/Pomander.webp",
+        "tag": "candle"
+
+    }
+]
