@@ -1,15 +1,6 @@
-import { useEffect, useState } from "react";
 import homeVideo from '../../../assets/videos/home.mp4'
 
 const Banner = () => {
-    const [products, setProducts] = useState([]);
-    console.log(products);
-    useEffect(()=>{
-        fetch('api.json')
-        .then(res=>res.json())
-        .then(data=>setProducts(data))
-    },[])
-    
     return (
         <div className="lg:flex items-center">
            <div className="lg:w-8/12">
